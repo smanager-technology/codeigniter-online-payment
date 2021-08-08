@@ -14,7 +14,8 @@ It is a demonstration of our sManager Online Payment for CodeIgniter Framework. 
 <h3>Image Reference</h3>
 
 > sManager Online Payment
-> <img src="https://raw.githubusercontent.com/smanager-technology/codeigniter-online-payment/assets/img/1.png" alt="sManager Online Payment" />
+> <img src="https://raw.githubusercontent.com/smanager-technology/codeigniter-online-payment/master/assets/img/1.PNG" alt="sManager Online Payment" />
 
 > sManager Online Payment
-> <img src="https://raw.githubusercontent.com/smanager-technology/codeigniter-online-payment/assets/img/2.png" alt="sManager Online Payment" />
+> <img src="https://raw.githubusercontent.com/smanager-technology/codeigniter-online-payment/master/assets/img/2.PNG" alt="sManager Online Payment" />
+> 
