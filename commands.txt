@@ -1,0 +1,9 @@
+composer create-project codeigniter4/appstarter codeigniter-online-payment
+
+php spark make:migration users --table
+php spark session:migration
+php spark migrate
+php spark migrate:refresh
+
+php spark make:controller Payment
+php spark make:model User
