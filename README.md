@@ -11,8 +11,9 @@ We are providing sManager Online Payment for PHP Framework CodeIgniter.
 It is a demonstration of our sManager Online Payment for CodeIgniter Framework. CodeIgniter v4.1.3 is used here. 
 
 
-- Download/Clone this repository.
+- Download/Clone this repository
 - Run <code>composer install</code>
+- Run <code>php spark migrate</code> for Database Migration
 - After completing the install, update <code>PL_CLIENT_ID</code>, <code>PL_CLIENT_SECRET</code>, <code>PL_URL</code>
 - You have to change <code>PL_CLIENT_ID</code>, <code>PL_CLIENT_SECRET</code>, <code>PL_URL</code> in <code>.env</code> file. To collect <code>PL_CLIENT_ID</code> and <code>PL_CLIENT_SECRET</code> please contact with sManager or call 16516. 
 <br />
