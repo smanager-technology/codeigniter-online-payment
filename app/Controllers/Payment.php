@@ -55,11 +55,11 @@ class Payment extends BaseController
             ],
             'amount' => [
                 'label' => 'Amount',
-                'rules' => 'required|greater_than_equal_to[10]|less_than_equal_to[500000]',
+                'rules' => 'required|greater_than_equal_to[10]|less_than[500000]',
                 'errors' => [
                     'required'              => 'Please provide {field}.',
                     'greater_than_equal_to' => '{field} must be greater than or equal 10.',
-                    'less_than_equal_to'    => '{field} must be less than or equal 500000.'
+                    'less_than'             => '{field} must be less than 500000.'
                 ]
             ]
         ]);
